@@ -224,17 +224,17 @@ function tool_abconfig_after_require_login() {
  * Before footer
  * @return void
  */
-function tool_abconfig_before_footer() {
-    tool_abconfig_execute_js('footer');
-}
+//function tool_abconfig_before_footer() {
+//    tool_abconfig_execute_js('footer');
+//}
 
 /**
  * Before http headers
  * @return void
  */
-function tool_abconfig_before_http_headers() {
-    tool_abconfig_execute_js('header');
-}
+//function tool_abconfig_before_http_headers() {
+//    tool_abconfig_execute_js('header');
+//}
 
 /**
  * Execute command array
